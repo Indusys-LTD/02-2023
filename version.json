@@ -1,6 +1,6 @@
 {
     "name": "In App Update Flutter Desktop App",
-    "version": 0.20,
+    "version": 0.21,
     "description": [
         "OTA Update functionality",
         "First major release"
